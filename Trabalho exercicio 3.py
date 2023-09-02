@@ -48,7 +48,7 @@ def cachorro_pelo(pergunta) :              #funcao do pelo do cachrro
         multiplicador = 1
     elif (x=='m') :
         multiplicador = 1.5
-    elif (x=='i') :
+    elif (x=='l') :
         multiplicador = 2
 
     return multiplicador
